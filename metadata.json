@@ -1,0 +1,6 @@
+{
+  "name": "Chuly Helados ",
+  "description": "Sistema integral de gestión y punto de venta para heladerías artesanales, optimizado para rapidez, control de stock y configuración avanzada de comandera e impresión.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
